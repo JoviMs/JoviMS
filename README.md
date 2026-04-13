@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Junior Nfor 👋
 
-<!--
-**JoviMs/JoviMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Former B.Sc. Computer Science Engineering student @ John Von Neumann University, Hungary (GPA 4.67/5)  
+🎓 B.Sc. Artificial Intelligence @ Deggendorf Institute of Technology, Germany  
+🔭 Currently building: Real-time Emotion Detector (Computer Vision · React · FastAPI)  
+🌱 Learning: PyTorch · Computer Vision · NLP · LangChain · NumPy
+💡 Background: 5+ years freelance web development — I build both the model and the UI  
+🤝 Open to: AI/ML internship starting October 2026 in Germany  
+📬 juniornfor1@gmail.com
 
-Here are some ideas to get you started:
+**Skills:**
+`Python` `React` `JavaScript` `HTML/CSS` `PyTorch` `FastAPI` `Git` `MySQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** English (C2) · French (C2) · German (learning)
