@@ -9,6 +9,6 @@
 📬 juniornfor1@gmail.com
 
 **Skills:**
-`Python` `React` `JavaScript` `HTML/CSS` `PyTorch` `FastAPI` `Git` `MySQL`
+`Python` `React` `JavaScript` `HTML/CSS` `PyTorch` `FastAPI` `Git` `MySQL` `NumPy`
 
 **Languages:** English (C2) · French (C2) · German (learning)
