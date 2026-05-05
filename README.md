@@ -1,4 +1,4 @@
-## Hi, I'm Junior Nfor 👋 My Favorite line " Always hungry for knowledge"
+## Hi, I'm Junior Nfor 👋 My Favorite line: " Always be hungry for knowledge."
 
 🎓 Former B.Sc. Computer Science Engineering student @ John Von Neumann University, Hungary (GPA 4.67/5)  
 🎓 B.Sc. Artificial Intelligence @ Deggendorf Institute of Technology, Germany  
